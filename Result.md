@@ -108,8 +108,8 @@ plot<-ggplot(data=df,aes(x*a,y*a))
 plot+ geom_point(color="darkmagenta",shape=1,alpha=0.1,size=80) + theme(text=element_blank(),rect=element_blank(),legend.position = "none")
 ```
 
-```{r}
 ![image9](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Plot/Rplot08.png)
+```{r}
 angle<-2
 a<-seq(1,2000)*angle 
 x<-sin(a)
@@ -131,7 +131,7 @@ plot<-ggplot(data=df,aes(x*a,y*a))
 plot+ geom_point(color="darkblue",shape=1,alpha=0.1,size=80) + theme(text=element_blank(),rect=element_blank(),legend.position = "none")
 
 ```
-![image11](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Plot/Rplot010.png)
+![image11](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Plot/Rplot10.png)
 
 ```{r}
 angle<-1.3
@@ -143,7 +143,7 @@ plot<-ggplot(data=df,aes(x*a,y*a))
 plot+ geom_point(color="darkmagenta",shape=1,alpha=0.1,size=80) + theme(text=element_blank(),rect=element_blank(),legend.position = "none")
 ```
 
-![image12](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Plot/Rplot011.png)
+![image12](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Plot/Rplot11.png)
 
 
 
