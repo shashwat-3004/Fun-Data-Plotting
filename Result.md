@@ -1,5 +1,5 @@
 # Fun-in-R
-This repository contains some fun data plotting using ggplot2 package in R. Inspired and taken help from this blog (https://fronkonstin.com/)  (work going on)
+This repository contains some fun data plotting using ggplot2 package in R. Inspired and taken help from this blog (https://fronkonstin.com/) and a datacamp project by Antonio Sánchez Chinchón  (work going on)
 
 This will be the end result for now (more things later)
 ![Image](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Img.png)
