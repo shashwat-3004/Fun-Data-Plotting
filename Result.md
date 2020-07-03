@@ -1,7 +1,7 @@
 # Fun-in-R
-This repository contains some fun data plotting using ggplot2 package in R. Inspired and taken help from this blog (https://fronkonstin.com/) and a datacamp project by Antonio Sánchez Chinchón  (work going on)
+This repository contains some fun data plotting using ggplot2 package in R.  
 
-This will be the end result for now (more things later)
+This will be the end result for now (more things coming later)
 ![Image](https://github.com/shashwat-3004/Fun-in-R-/blob/master/Img.png)
 
 ```{r}
@@ -147,4 +147,4 @@ plot+ geom_point(color="darkmagenta",shape=1,alpha=0.1,size=80) + theme(text=ele
 
 
 
-
+Inspired and taken help from this blog (https://fronkonstin.com/) and a datacamp project by Antonio Sánchez Chinchón(https://learn.datacamp.com/projects/62) .
