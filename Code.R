@@ -1,3 +1,6 @@
+# To see the results check Result.md
+
+
 # Let's Start with a spiral image
 library(ggplot2)
 angle<-13*pi/180
